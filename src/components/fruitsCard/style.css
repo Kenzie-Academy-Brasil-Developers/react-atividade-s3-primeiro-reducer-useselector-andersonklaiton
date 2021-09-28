@@ -1,0 +1,22 @@
+.container_fruit{
+
+}
+.card_fruit{
+    color: black;
+    background: wheat;
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Banana{
+
+}
+.Maça{
+
+}
+.Morango{
+
+}
